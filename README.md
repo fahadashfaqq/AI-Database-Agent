@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Database Management Agent
 
 This project was developed as part of a technical assessment.
@@ -126,3 +127,7 @@ City
 Show All Users
 
 Display all users stored in the database.
+=======
+# AI-Database-Agent
+An AI-powered database management agent that allows administrators to add, search, update, delete, and view users using natural language commands.
+>>>>>>> 6894f6d47be78034a7adc158972eeece7fe4826d
