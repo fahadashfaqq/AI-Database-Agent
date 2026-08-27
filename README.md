@@ -30,7 +30,7 @@ It is an AI-powered application that allows an administrator to manage user info
 
 1. Clone the repository:
 
-```bash
+
 git clone YOUR_REPOSITORY_URL
 
 2. Move into the project folder:
@@ -77,7 +77,7 @@ Show all users.
 
 
 
-1. Authentication
+## Authentication
 
 The application uses email-based authentication.
 
@@ -86,7 +86,7 @@ Only email addresses that exist in the admins table are allowed to access the ap
 The application also uses session-based authentication to protect the chat functionality.
 
 
-2. Database Operations
+## Database Operations
 
 The AI agent can perform the following operations:
 
