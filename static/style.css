@@ -62,15 +62,11 @@ body {
 }
 
 
-
-
 .message.user {
     align-self: flex-end;
     background: #dcf8c6;
     border-bottom-right-radius: 2px;
 }
-
-
 
 
 .message.agent {
@@ -79,8 +75,6 @@ body {
     border-bottom-left-radius: 2px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.15);
 }
-
-
 
 #message_area {
     width: 100%;
@@ -92,8 +86,6 @@ body {
     font-size: 15px;
 	background-color: #eaeaea;
 }
-
-
 
 
 .chat_input_container {

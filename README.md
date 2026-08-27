@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # AI Database Management Agent
-
-This project was developed as part of a technical assessment.
 
 It is an AI-powered application that allows an administrator to manage user information through natural language commands.
 
@@ -65,9 +62,8 @@ admin@example.com
 
 ## Example Commands
 
-The administrator can use commands such as:
+#The administrator can use commands such as:
 
-```text
 Add a user named Jane with email Jane@example.com,
 phone +91253 and city New York.
 
@@ -127,7 +123,3 @@ City
 Show All Users
 
 Display all users stored in the database.
-=======
-# AI-Database-Agent
-An AI-powered database management agent that allows administrators to add, search, update, delete, and view users using natural language commands.
->>>>>>> 6894f6d47be78034a7adc158972eeece7fe4826d
