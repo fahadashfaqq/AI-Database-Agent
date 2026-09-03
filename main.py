@@ -21,7 +21,7 @@ SERVER_SESSION_ID = secrets.token_urlsafe(32)
 
 app.add_middleware(
     SessionMiddleware,
-    secret_key="your-secret-key-change-this"
+    secret_key=os.getenv("SESSION_SECRET_KEY")
 )
 
 
