@@ -11,6 +11,10 @@ from ai_agents import run_agent
 import secrets
 import itsdangerous
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = FastAPI(
     title="AI Agent For Databases"
